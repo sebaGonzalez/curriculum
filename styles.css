@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+  }
+
+  img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  .contact {
+    width: 25%;
+    float: left;
+    padding: 15px;
+    background-color: rgb(82, 117, 117);
+    color: aliceblue;
+  }
+  
+  .contact a{
+    color: aliceblue;
+  }
+  .contact span {
+    margin: 2%;
+  }
+
+  .contact div{
+    width: 50%;
+    float: left;
+  }
+
+  p {
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+  }
+  
+    h3, h4{
+    margin-block-start: 1.7em;
+    margin-block-end:0.1em;
+    color: black;
+  }
+  .experience {
+    width: 75%;
+    float: left;
+    padding: 15px ;
+  }
+
+  .experience h1 {
+    text-align: center;
+    border: 1px solid black;
+  }
+
+  .dates {
+    width: 30%;
+    float: left;
+    font-size: small;
+    color: gray;
+  }
+
+  .jobs {
+    width: 70%;
+    float: left;
+  }
+  .jobs h4,h5{
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+  }
